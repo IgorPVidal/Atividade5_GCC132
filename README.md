@@ -2,12 +2,12 @@
 
 ## Repositório para a atividade 5 da disciplina GCC132 Modelagem e Implementação de Software.
 
-Neste repositório será apresentado um *código simples em Java* que realiza o **cálculo cálculo da área de um triângulo**, com o objetivo de treinar o uso do GitHub.
+Neste repositório será apresentado um *código simples em Java* que realiza o **cálculo da área de um triângulo**, com o objetivo de treinar o uso do GitHub.
 
 
 * Função calculada no código:
                  
-                 *Inserir imagem*
+[Ilustração do cálculo da área do triângulo e função, pelo site "Toda Matéria"](https://static.todamateria.com.br/upload/re/ai/rea_isosceles.jpg)
                  
 * Apresentação do trecho de código em *Java* responsável pelo cálculo:
 
