@@ -7,7 +7,7 @@ Neste repositório será apresentado um *código simples em Java* que realiza o 
 
 * Função calculada no código:
                  
-[Ilustração do cálculo da área do triângulo e função, pelo site "Toda Matéria"](https://static.todamateria.com.br/upload/re/ai/rea_isosceles.jpg)
+![Ilustração do cálculo da área do triângulo e função, pelo site "Toda Matéria"](https://static.todamateria.com.br/upload/re/ai/rea_isosceles.jpg "Cálculo da Área de um Triângulo")
                  
 * Apresentação do trecho de código em *Java* responsável pelo cálculo:
 
@@ -17,5 +17,5 @@ Neste repositório será apresentado um *código simples em Java* que realiza o 
                   
 * Link de referência:
 
-[Cálculo da área de um triângulo](https://www.todamateria.com.br/area-do-triangulo/)
+[Cálculo da área de um triângulo](https://www.todamateria.com.br/area-do-triangulo/ "Site Toda Matéria, cálculo da área de um triângulo")
                   
